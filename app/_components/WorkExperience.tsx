@@ -29,7 +29,7 @@ const workExperiences: WorkExperienceItemProps[] = [
     responsibilities: [
       "Provided mentorship to 20+ students weekly, focusing on data structures, algorithms, and system design",
       "Reduced assignment delays by 25% by providing ad-hoc email support outside scheduled hours",
-      "Reduced student debugging time by 30% by developing a custom React/Node.js app that auto-generates visual code execution traces and common error explanations"
+      "Reduced student debugging time by 30% by developing a custom React-based app that auto-generates visual flow diagram code execution traces and real-time error explanations"
     ]
   },
   {
