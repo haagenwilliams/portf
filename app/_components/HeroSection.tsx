@@ -34,7 +34,7 @@ const HeroSection = () => {
               <Link href="#work">See My Work</Link>
             </ShinyButton>
             <Link
-              href="https://www.linkedin.com/in/haagen-williams-b0a5b4293/"
+              href="https://www.linkedin.com/in/haagenwilliams/"
               target="_blank"
               className="flex items-center gap-2.5 group"
             >

@@ -130,4 +130,22 @@ export const portfolioProjects = [
     liveDemoUrl: "https://github.com/haagenwilliams",
     sourceCodeUrl: "https://github.com/haagenwilliams",
   },
+  {
+    id: "project-2",
+    heading: "Blockerz MarketPlace",
+    subheading: "E-commerce Analytics Platform",
+    description:
+      "An interactive web application that visualizes code execution flow in real-time. This tool helps developers/students I am tutoring understand code behavior by creating a visual representation of function calls and program flow.",
+    imageUrl: "/imgs/logos/github.svg",
+    techStack: [
+      "Babel",
+      "Vite",
+      "Monaco Editor",
+      "React",
+      "TypeScript",
+      "React Flow",
+    ],
+    liveDemoUrl: "https://github.com/haagenwilliams/tut-app",
+    sourceCodeUrl: "https://github.com/haagenwilliams/tut-app",
+  },
 ];
