@@ -148,4 +148,21 @@ export const portfolioProjects = [
     liveDemoUrl: "https://github.com/haagenwilliams/tut-app",
     sourceCodeUrl: "https://github.com/haagenwilliams/tut-app",
   },
+  {
+    id: "project-2",
+    heading: "Asl Chat Converter",
+    subheading: "Asl Learning Tool",
+    description:
+      "A powerful tool that converts American Sign Language (ASL) to text and speech in real-time using your webcam. Perfect for learning ASL or facilitating communication between deaf and hearing individuals.",
+    imageUrl: "/imgs/projects/project-demo.gif",
+    techStack: [
+      "Pandas",
+      "Scikit-learn",
+      "lask",
+      "JavaScript",
+      "Excel",
+    ],
+    liveDemoUrl: "https://gyazo.com/51c32629d9e94cfd83f7da47fdb8d67b",
+    sourceCodeUrl: "https://github.com/haagenwilliams",
+  },
 ];
